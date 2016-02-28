@@ -1,0 +1,33 @@
+_repo: Waverley-Novels-Volume-12_6661
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Cleishbotham, Jedediah
+    - Scott, Sir Walter
+    - Templeton, Laurence
+    - Malagrowther, Malachi
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- In literature'
+- !lcsh 'Historical fiction, Scottish'
+- !lcc 'PR'
+tableOfContents: Tales Of My Landlord -- Count Robert Of Paris -- Castle Dangerous
+  -- My Aunt Margaret's Mirror -- The Mirror -- The Tapestried Chamber; Or, The Lady
+  In The Sacque.
+title: Waverley Novels — Volume 12
+url: http://www.gutenberg.org/ebooks/6661
