@@ -1,4 +1,8 @@
 _repo: Waverley-Novels-Volume-12_6661
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Scott, Walter
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/59
     wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6661#Waverley-Novels-Volume-12
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
